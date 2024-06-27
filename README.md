@@ -167,5 +167,3 @@ Phishing Scams: - E-commerce sites are also prone to phishing scams sent by know
 Require stronger passwords: - The reason why hackers easily gain access to users’ login credentials is that most ecommerce sites fail to ask users to provide stronger passwords. Hackers can utilize algorithms to figure out the passwords easily. A strong password contains a mix of alphabetical letters and numbers. 
 Use SSL Certificates: - It is mandatory for e-commerce websites to have SSL certificates for facilitating secure user connections. These certificates are also useful in authenticating the identity of an online retail business and securing users’ checkout data. They also keep customers of online retail stores protected from financial fraud or information loss.
 
-
-4.5 TEST CASE DESGIN: -
